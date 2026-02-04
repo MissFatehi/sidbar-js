@@ -58,6 +58,10 @@ main{
     background-color: rgb(223, 27, 27);
 }
 
+.menu-icon:hover div{
+ background-color: rgb(3, 3, 3);
+}
+
 .crossBtn{
     cursor: pointer;
     transition: all 0.3s linear;
